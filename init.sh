@@ -1,0 +1,3 @@
+#!/bin/bash
+
+# Basic script
